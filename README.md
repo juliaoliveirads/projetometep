@@ -8,6 +8,11 @@
 ![stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS%20vanilla-orange)
 [![deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-success)](https://gabiimarotti.github.io/salva-patas/)
 
+## 📖 Documentação
+
+A documentação completa (requisitos, decisões de layout, tecnologias e diagramas) está em
+[`docs/documentacao.md`](docs/documentacao.md).
+
 ---
 
 ## 📋 Sobre o projeto
@@ -77,20 +82,5 @@ python -m http.server 5500
 ```
 
 Depois acesse `http://localhost:5500`.
-
-## 📖 Documentação
-
-A documentação completa (requisitos, decisões de layout, tecnologias e diagramas) está em
-[`docs/documentacao.md`](docs/documentacao.md).
-
-## 👥 Equipe
-
-> _Preencher com os integrantes do grupo._
-
-- Gabi Marotti
-- Julia
-- _(demais integrantes)_
-
----
 
 _Projeto acadêmico — Mentalidade Criativa e Empreendedora & Front-End._
