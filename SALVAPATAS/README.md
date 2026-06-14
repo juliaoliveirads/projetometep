@@ -83,14 +83,5 @@ Depois acesse `http://localhost:5500`.
 A documentação completa (requisitos, decisões de layout, tecnologias e diagramas) está em
 [`docs/documentacao.md`](docs/documentacao.md).
 
-## 👥 Equipe
-
-> _Preencher com os integrantes do grupo._
-
-- Gabi Marotti
-- Julia
-- _(demais integrantes)_
-
----
 
 _Projeto acadêmico — Mentalidade Criativa e Empreendedora & Front-End._
