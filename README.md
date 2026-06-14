@@ -4,8 +4,6 @@
 
 🔗 **Site no ar:** https://gabiimarotti.github.io/salva-patas/
 
-![status](https://img.shields.io/badge/status-em%20desenvolvimento-blueviolet)
-![stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS%20vanilla-orange)
 [![deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-success)](https://gabiimarotti.github.io/salva-patas/)
 
 ---
@@ -52,16 +50,15 @@ Pessoas que querem **adotar** um animal, **doar** (dinheiro ou insumos), **ONGs 
 salva-patas/
 ├── index.html              # Estrutura HTML de todas as telas
 ├── README.md               # Este arquivo
-├── assets/
+├── arquivos/
 │   ├── css/
 │   │   └── style.css       # Todo o CSS (extraído do <style>)
 │   ├── js/
 │   │   └── app.js          # Toda a lógica (extraída do <script>)
 │   └── img/
-│       └── logo.jpeg       # Logo da marca
+│       └── logo.jpg        # Logo da marca
 └── docs/
-    ├── documentacao.md     # Documento de requisitos / projeto
-    └── img/                # Imagens dos diagramas (se houver)
+    └── documentacao.md     # Documento de requisitos / projeto
 ```
 
 ## 🚀 Como rodar localmente
@@ -83,5 +80,6 @@ Depois acesse `http://localhost:5500`.
 A documentação completa (requisitos, decisões de layout, tecnologias e diagramas) está em
 [`docs/documentacao.md`](docs/documentacao.md).
 
+---
 
 _Projeto acadêmico — Mentalidade Criativa e Empreendedora & Front-End._
